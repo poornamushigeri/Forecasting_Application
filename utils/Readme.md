@@ -66,11 +66,6 @@ Visualize Forecasts and Analyze Feature Importance
 📛 Badges
 <p align="center"> <img src="https://img.shields.io/badge/Streamlit-Application-orange?logo=streamlit" alt="Streamlit"> <img src="https://img.shields.io/badge/Prophet-Forecasting-blue?logo=facebook" alt="Prophet"> <img src="https://img.shields.io/badge/Tensorflow-LSTM-red?logo=tensorflow" alt="Tensorflow"> <img src="https://img.shields.io/badge/Plotly-Visualization-brightgreen?logo=plotly" alt="Plotly"> </p>
 
-📸 App Screenshots
-
-<p align="center">
-  <img src="forecasting_app/screenshots/app_scr.jpg" width="700">
-</p>
 
 ✅ End
 
