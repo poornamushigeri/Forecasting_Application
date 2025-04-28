@@ -81,15 +81,6 @@ forecasting_app/
 - Visualize forecast results  
 - Analyze feature importance (if regressors are used)
 
----
-
-## 📸 App Screenshot
-
-<p align="center">
-  <img src="D:\forecasting_app\app_scr.png" width="700">
-</p>
-
----
 
 ## 📋 Example Datasets
 
