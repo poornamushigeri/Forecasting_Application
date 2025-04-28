@@ -1,5 +1,3 @@
-# utils/eda.py (Professional)
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -49,4 +47,4 @@ def run_eda(df):
                     html_content = open(tmp_file.name, 'r').read()
                     components.html(html_content, height=1000, scrolling=True)
 
-# ✅ This allows users to pick which style of EDA they want: fast or detailed!
+

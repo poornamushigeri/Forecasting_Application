@@ -173,4 +173,3 @@ if uploaded_file:
         else:
             st.warning("⚠️ No external regressors selected to explain!")
 
-# ✅ Now your app is fully professional, polished and changepoint tunable!
