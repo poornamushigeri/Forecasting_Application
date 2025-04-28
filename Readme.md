@@ -86,7 +86,7 @@ forecasting_app/
 ## 📸 App Screenshot
 
 <p align="center">
-  <img src="forecasting_app/screenshots/app_scr.jpg" width="700">
+  <img src="forecasting_app/screenshots/app_scr.png" width="700">
 </p>
 
 ---
