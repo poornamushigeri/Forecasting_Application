@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+prophet
+ydata-profiling
+sweetviz
+tensorflow
+statsmodels
